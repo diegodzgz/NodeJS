@@ -1,0 +1,22 @@
+{
+  "name": "my_module",
+  "version": "1.0.0",
+  "description": "Evidence",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegodzgz/NodeJS.git"
+  },
+  "keywords": [
+    "Bedu"
+  ],
+  "author": "Diego Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegodzgz/NodeJS/issues"
+  },
+  "homepage": "https://github.com/diegodzgz/NodeJS#readme"
+}
